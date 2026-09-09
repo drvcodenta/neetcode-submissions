@@ -19,3 +19,9 @@ class Solution {
         return arr.slice(0, k).map((pair) => pair[1]);
     }
 }
+
+// for(const num of nums){
+//     console.log(num);
+// }
+
+// now above returns values are known!
